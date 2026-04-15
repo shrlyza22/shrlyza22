@@ -13,6 +13,6 @@ An Information Technology student of Telkom University<br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shrlyza22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=shrlyza22&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrlyza22&label=Profile%20views&color=0e75b6&style=flat" alt="shrlyza22" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
